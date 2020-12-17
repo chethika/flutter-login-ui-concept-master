@@ -1,10 +1,6 @@
 # Flutter UI Concept
 
-Made by Maadhav Sharma
-- [Subscribe to Code Decoders Youtube](http://bit.ly/CodeDecoders)
-- [Follow me on Instagram](https://instagram.com/maadhav_sharma)
-- [Follow me on Twitter](https://twitter.com/maadhav_sharma)
-- [My Website](decoders.code.blog)
+
 ## ScreenShots
 
 
